@@ -10,11 +10,11 @@ Take help from github help section for different commands and other errors
 To set the basic configurations on github like your name and email. 
  
 
-3.git config –-global user.name “Ashish Madaan”
+3.git config –-global user.name 
 Sets configuration values for your user name on git. 
  
 
-4.git config –-global user.email ashishmadaan6@gmail.com
+4.git config –-global user.email 
 Sets configuration values for your user email on git. 
  
 
@@ -105,7 +105,7 @@ To undo last commit and remove file from the staging area as well(In case we wen
 To undo last 2 commits and all changes. 
  
 
-26.git remote add origin https://github.com/madaan123/MyAlgorithms.git
+26.git remote add origin 
 This commands make a bookmark which signifies that this particular remote refers to this URL. 
 This remote will be used to pull any content from the directory and push our local content to the global server. 
  
@@ -122,7 +122,7 @@ To remove a remote from our local repository.
 To push all the contents of our local repository that belong to master branch to the server(Global repository). 
  
 
-30.git clone https://github.com/madaan123/MyAlgorithms.git
+30.git clone 
 To clone or make a local copy of the global repository in your system 
 (git clone command downloads the repository and creates a remote named as origin which can be checked by command – git remote -v). 
  
