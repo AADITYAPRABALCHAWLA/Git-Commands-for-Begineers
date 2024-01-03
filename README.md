@@ -34,7 +34,7 @@
 |31.|**git branch Testing**|To create a new branch named as Testing. |
 |32.|**git branch**|To see all the branches present and current branch that we are working on. |
 |33.|**git checkout Testing**|To switch to branch Testing from master branch. |
-|34.|**ls******To see directories and files in the current directory. |
+|34.|**ls***|To see directories and files in the current directory. |
 |35.|**git merge Testing**|To merge Testing branch with master branch. |
 |36.|**git branch -d Testing**|To delete Testing branch. |
 |37.|**git checkout -b admin**|To create a new branch admin and set it as current branch. |
