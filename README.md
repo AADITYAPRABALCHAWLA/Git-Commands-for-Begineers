@@ -1,6 +1,6 @@
  # Some Usefull Git Commands
 |S.no| Command| Description|
-|----|-----|------|
+|---|-----|------|
 |1.|**git help**|Take help from github help section for different commands and other errors| 
 |2.|**git config**|To set the basic configurations on github like your name and email.| 
 |3.|**git config –-global user.name**| 
