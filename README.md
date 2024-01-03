@@ -1,16 +1,16 @@
-# VITMAS-TASK0-21BCE2815
+# Some Usefull Git Commands
 
-1.git help
+1.**git help**
 Take help from github help section for different commands and other errors 
  
 
 
 
-2.git config
+2.**git config**
 To set the basic configurations on github like your name and email. 
  
 
-3.git config –-global user.name 
+3.**git config –-global user.name** 
 Sets configuration values for your user name on git. 
  
 
