@@ -1,4 +1,4 @@
-![image](https://github.com/AADITYAPRABALCHAWLA/VITMAS-TASK0-21BCE2815/assets/103323016/c143c9bd-60f1-4cd8-8555-8d484fa4759d)![image](https://github.com/AADITYAPRABALCHAWLA/VITMAS-TASK0-21BCE2815/assets/103323016/257cb7bc-ef07-407c-a30c-990a4b6189e4)![image](https://github.com/AADITYAPRABALCHAWLA/VITMAS-TASK0-21BCE2815/assets/103323016/1a664ef2-7923-4b27-8316-f8e895e979ac) # Some Usefull Git Commands
+# Some Usefull Git Commands
 |S.no| Command| Description|
 |---|-----|------|
 |1.|**git help**|Take help from github help section for different commands and other errors| 
@@ -42,22 +42,7 @@
 |39.|**git branch -D Testing**|To forcefully delete a branch without making commmits. |
 |40.|**git tag**|To see the list of available tags. |
 |41.|**git checkout v0.0.1**|To set the current tag to v0.0.1. |
-42.**git tag -a v0.0.3 -m “version 0.0.3”**
-To create a new tag. 
- 
-
-43.**git push –tags**
-To push the tags to remote repository. 
- 
-
-44.**git fetch**
-To fetch down any changes from global repository to current repository 
- 
-
-45.**git rebase**
-Three tasks are performed by git rebase 
- 
-
-Move all changes to master which are not in origin/master to a temporary area.
-Run all origin master commits.
-Run all commits in the temporary area on top of our master one at a time, so it avoids merge commits.
+|42.|**git tag -a v0.0.3 -m “version 0.0.3”**|To create a new tag. |
+|43.|**git push –tags**|To push the tags to remote repository. |
+|44.|**git fetch**|To fetch down any changes from global repository to current repository |
+|45.|**git rebase**|Three tasks are performed by git rebase |
