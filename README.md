@@ -1,4 +1,4 @@
- # Some Usefull Git Commands
+![image](https://github.com/AADITYAPRABALCHAWLA/VITMAS-TASK0-21BCE2815/assets/103323016/c143c9bd-60f1-4cd8-8555-8d484fa4759d)![image](https://github.com/AADITYAPRABALCHAWLA/VITMAS-TASK0-21BCE2815/assets/103323016/257cb7bc-ef07-407c-a30c-990a4b6189e4)![image](https://github.com/AADITYAPRABALCHAWLA/VITMAS-TASK0-21BCE2815/assets/103323016/1a664ef2-7923-4b27-8316-f8e895e979ac) # Some Usefull Git Commands
 |S.no| Command| Description|
 |---|-----|------|
 |1.|**git help**|Take help from github help section for different commands and other errors| 
@@ -31,52 +31,17 @@
 |28.|**git remove rm**|To remove a remote from our local repository. |
 |29.|**git push -u origin master**|To push all the contents of our local repository that belong to master branch to the server(Global repository). |
 |30.|**git clone**|To clone or make a local copy of the global repository in your system <br/>git clone command downloads the repository and creates a remote named as origin which can be checked by command – git remote -v). |
- 
-
-31.**git branch Testing**
-To create a new branch named as Testing. 
- 
-
-32.**git branch**
-To see all the branches present and current branch that we are working on. 
- 
-
-33.**git checkout Testing**
-To switch to branch Testing from master branch. 
- 
-
-34.**ls**
-To see directories and files in the current directory. 
- 
-
-35.**git merge Testing**
-To merge Testing branch with master branch. 
- 
-
-36.**git branch -d Testing**
-To delete Testing branch. 
- 
-
-37.**git checkout -b admin**
-To create a new branch admin and set it as current branch. 
- 
-
-38.**git branch -r**
-To look at all the remote branches. 
- 
-
-39.**git branch -D Testing**
-To forcefully delete a branch without making commmits. 
- 
-
-40.**git tag**
-To see the list of available tags. 
- 
-
-41.**git checkout v0.0.1**
-To set the current tag to v0.0.1. 
- 
-
+|31.|**git branch Testing**|To create a new branch named as Testing. |
+|32.|**git branch**|To see all the branches present and current branch that we are working on. |
+|33.|**git checkout Testing**|To switch to branch Testing from master branch. |
+|34.|**ls******To see directories and files in the current directory. |
+|35.|**git merge Testing**|To merge Testing branch with master branch. |
+|36.|**git branch -d Testing**|To delete Testing branch. |
+|37.|**git checkout -b admin**|To create a new branch admin and set it as current branch. |
+|38.|**git branch -r**|To look at all the remote branches. |
+|39.|**git branch -D Testing**|To forcefully delete a branch without making commmits. |
+|40.|**git tag**|To see the list of available tags. |
+|41.|**git checkout v0.0.1**|To set the current tag to v0.0.1. |
 42.**git tag -a v0.0.3 -m “version 0.0.3”**
 To create a new tag. 
  
