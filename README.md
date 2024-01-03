@@ -1,5 +1,6 @@
 # Some Usefull Git Commands
-
+|S.no| Command| Description|
+|----|-----|------|
 1.**git help**
 Take help from github help section for different commands and other errors 
  
