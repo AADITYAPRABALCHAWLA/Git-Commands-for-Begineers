@@ -15,7 +15,7 @@
 |12.|**git log**|To check the history of commits for our reference. |
 |13.|**git add**|To add a specific list of files to staging area. |
 |14.|**git add --all**|To add all files of current directory to staging area. |
-|15| **git add ** \*.txt**|
+|15| **git add \*.txt**|
 To add all text files of the current directory to staging area.  
 
 16.**git add docs/*.txt**
