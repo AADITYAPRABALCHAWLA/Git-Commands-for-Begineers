@@ -4,18 +4,9 @@
 |1.|**git help**|Take help from github help section for different commands and other errors| 
 |2.|**git config**|To set the basic configurations on github like your name and email.| 
 |3.|**git config –-global user.name**|Sets configuration values for your user name on git.| 
- 
-
-4.**git config –-global user.email** 
-Sets configuration values for your user email on git. 
- 
-
-5.**git config –-global color.ui true**
-To see different colours on command line for different outputs. 
- 
-
-6.**mkdir store**
-Create a directory if not created initially. 
+|4.|**git config –-global user.email**| Sets configuration values for your user email on git.| 
+|5.|**git config –-global color.ui true**|To see different colours on command line for different outputs.| 
+|6.|**mkdir store**|Create a directory if not created initially.| 
  
 
 7.**cd store**
