@@ -7,45 +7,16 @@
 |4.|**git config –-global user.email**| Sets configuration values for your user email on git.| 
 |5.|**git config –-global color.ui true**|To see different colours on command line for different outputs.| 
 |6.|**mkdir store**|Create a directory if not created initially.| 
- 
-
-7.**cd store**
-To go inside the directory and work upon its contents. 
- 
-
-8.**git init**
-To create a local git repository for us in our store folder.This will help to manage the git commands for that particular repository. 
- 
-
-9.**git status**
-To see whats changed since last commit.It shows all the files that have been added and modified and ready to be commmitted and files which are untracked 
- 
-
-10.**git add Readme.txt**
-To add a file Readme.txt to the staging area to track its changes. 
- 
-
-11.**git commit -m “Created a Readme.txt”**
-To commit our changes(taking a snapshot) and providing a message to remember for future reference. 
- 
-
-12.**git log**
-To check the history of commits for our reference. 
-
-Different ways to use add command: 
- 
-
-13.**git add**
-To add a specific list of files to staging area. 
- 
-
-14.**git add --all**
-To add all files of current directory to staging area. 
- 
-
-15.**git add *.txt**
-To add all text files of the current directory to staging area. 
- 
+|7.|**cd store**|To go inside the directory and work upon its contents.| 
+|8.|**git init**|To create a local git repository for us in our store folder.This will help to manage the git commands for that particular repository.| 
+|9.|**git status**|To see whats changed since last commit.It shows all the files that have been added and modified and ready to be commmitted and files which are untracked |
+|10.|**git add Readme.txt**|To add a file Readme.txt to the staging area to track its changes. |
+|11|.**git commit -m “Created a Readme.txt”**|To commit our changes(taking a snapshot) and providing a message to remember for future reference. |
+|12.|**git log**|To check the history of commits for our reference. |
+|13.|**git add**|To add a specific list of files to staging area. |
+|14.|**git add --all**|To add all files of current directory to staging area. |
+|15| **git add ** \*.txt**|
+To add all text files of the current directory to staging area.  
 
 16.**git add docs/*.txt**
 To add all text files of a particular directory(docs) to staging area. 
